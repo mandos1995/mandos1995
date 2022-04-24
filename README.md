@@ -7,5 +7,5 @@
 ### Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mandos95)](https://solved.ac/mandos95)
- <img src="http://mazandi.herokuapp.com/api?handle={mandos1995}&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle={mandos95}&theme=warm"/>
 
